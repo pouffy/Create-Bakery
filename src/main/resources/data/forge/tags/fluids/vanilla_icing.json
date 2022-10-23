@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "create_bakery:flowing_icing",
+    "create_bakery:icing"
+  ]
+}

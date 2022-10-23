@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "create_bakery:plain_cake_base"
+    },
+    {
+      "fluid": "minecraft:milk",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "minecaft:cake"
+    }
+  ]
+}

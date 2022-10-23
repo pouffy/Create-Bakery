@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create_bakery:filled_cake_tin_plain_cooked"
+    }
+  ],
+  "result": {
+    "item": "create_bakery:plain_cake_base"
+  }
+}

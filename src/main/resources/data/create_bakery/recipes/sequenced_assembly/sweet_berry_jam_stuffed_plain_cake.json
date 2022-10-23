@@ -1,0 +1,53 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_bakery:plain_half_cake_base"
+  },
+  "transitionalItem": {
+    "item": "create_bakery:sweet_berry_jammed_half_plain_cake"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create_bakery:sweet_berry_jammed_half_plain_cake"
+        },
+        {
+          "fluid": "create_bakery:sweet_berry_jam",
+          "nbt": {},
+          "amount": 250
+        }
+      ],
+      "results": [
+        {
+          "item": "create_bakery:sweet_berry_jammed_half_plain_cake"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_bakery:sweet_berry_jammed_half_plain_cake"
+        },
+        [
+          {
+            "item": "create_bakery:plain_half_cake_base"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_bakery:sweet_berry_jammed_half_plain_cake"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "create_bakery:sweet_berry_jam_stuffed_plain_cake"
+    }
+  ],
+  "loops": 1
+}

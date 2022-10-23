@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "create_bakery:plain_cake_base"
+    },
+    {
+      "fluid": "create_bakery:chocolate_icing",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "create_bakery:iced_plain_cake_chocolate"
+    }
+  ]
+}

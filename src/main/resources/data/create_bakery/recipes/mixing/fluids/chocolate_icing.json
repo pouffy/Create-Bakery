@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "create:chocolate",
+      "nbt": {},
+      "amount": 125
+    },
+    {
+      "fluid": "create_bakery:icing",
+      "nbt": {},
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_bakery:chocolate_icing",
+      "nbt": {},
+      "amount": 250
+    }
+  ]
+}

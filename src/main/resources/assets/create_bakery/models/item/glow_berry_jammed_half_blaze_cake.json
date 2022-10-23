@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "create_bakery:item/glow_berry_jammed_half_blaze_cake"
+  }
+}

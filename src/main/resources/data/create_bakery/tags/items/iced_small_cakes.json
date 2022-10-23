@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "create_bakery:iced_plain_small_cake_vanilla",
+    "create_bakery:iced_plain_small_cake_buttercream",
+    "create_bakery:iced_plain_small_cake_chocolate"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create_bakery:iced_plain_cake_vanilla"
+    },
+    {
+      "item": "create_bakery:iced_plain_small_cake_vanilla"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_bakery:iced_double_plain_cake_vanilla"
+    }
+  ]
+}

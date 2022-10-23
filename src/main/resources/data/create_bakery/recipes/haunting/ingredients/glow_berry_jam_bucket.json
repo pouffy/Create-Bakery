@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "create_bakery:sweet_berry_jam_bucket"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_bakery:glow_berry_jam_bucket"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {
+      "item": "create_bakery:bottled_vanilla_extract"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "fluid": "create_bakery:vanilla_extract",
+      "amount": 250
+    }
+  ]
+}

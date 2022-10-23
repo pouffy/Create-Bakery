@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "create_bakery:item/filled_gilded_half_cake_tin_blaze"
+  }
+}

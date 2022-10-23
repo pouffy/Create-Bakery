@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "create_bakery:flowing_plain_cake_batter",
+    "create_bakery:plain_cake_batter"
+  ]
+}

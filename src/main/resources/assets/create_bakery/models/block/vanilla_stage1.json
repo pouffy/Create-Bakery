@@ -1,0 +1,6 @@
+{
+  "parent": "create_bakery:block/crop_cross",
+  "textures": {
+    "cross": "create_bakery:block/vanilla_stage1"
+  }
+}

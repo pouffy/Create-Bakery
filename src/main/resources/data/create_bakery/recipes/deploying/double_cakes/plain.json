@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create_bakery:plain_cake_base"
+    },
+    {
+      "item": "create_bakery:plain_small_cake_base"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_bakery:double_plain_cake_base"
+    }
+  ]
+}

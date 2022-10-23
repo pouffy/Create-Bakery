@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "create_bakery:iced_plain_cake_vanilla",
+    "create_bakery:iced_plain_cake_buttercream",
+    "create_bakery:iced_plain_cake_chocolate",
+    "minecraft:cake"
+  ]
+}

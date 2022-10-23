@@ -1,0 +1,97 @@
+{
+  "itemGroup.bakerytab": "Create: Bakery",
+  "_": ">--------------------------------------[ITEMS]--------------------------------------<",
+  "item.create_bakery.-": "-",
+  "_": ">>>>>>>{CAKE TINS}<<<<<<<",
+  "item.create_bakery.cake_tin": "Cake Tin",
+  "item.create_bakery.small_cake_tin": "Small Cake Tin",
+  "item.create_bakery.half_cake_tin": "Half Cake Tin",
+
+  "_": ">>>>>>>{FILLED CAKE TINS}<<<<<<<",
+  "item.create_bakery.filled_cake_tin_plain": "Filled Cake Tin With Plain Batter",
+  "item.create_bakery.filled_small_cake_tin_plain": "Filled Small Cake Tin With Plain Batter",
+  "item.create_bakery.filled_half_cake_tin_plain": "Filled Half Cake Tin With Plain Batter",
+  "item.create_bakery.filled_gilded_half_cake_tin_blaze": "Filled Gilded Half Cake Tin With Blazing Batter",
+
+  "_": ">>>>>>>{COOKED CAKE TINS}<<<<<<<",
+  "item.create_bakery.filled_cake_tin_plain_cooked": "Cooked Cake Tin With Plain Base",
+  "item.create_bakery.filled_small_cake_tin_plain_cooked": "Cooked Small Cake Tin With Plain Base",
+  "item.create_bakery.filled_half_cake_tin_plain_cooked": "Cooked Half Cake Tin With Plain Base",
+  "item.create_bakery.filled_gilded_half_cake_tin_blaze_cooked": "Cooked Gilded Half Cake Tin With Blazing Base",
+
+  "_": ">>>>>>>{INGREDIENTS}<<<<<<<",
+  "item.create_bakery.butter": "Butter",
+  "item.create_bakery.icing_sugar": "Icing Sugar",
+  "item.create_bakery.vanilla": "Vanilla",
+  "item.create_bakery.bottled_vanilla_extract": "Bottled Vanilla Extract",
+
+  "_": ">>>>>>>{BUCKETS}<<<<<<<",
+  "item.create_bakery.icing_bucket": "Vanilla Icing Bucket",
+  "item.create_bakery.butter_cream_bucket": "ButterCream Bucket",
+  "item.create_bakery.plain_cake_batter_bucket": "Plain Cake Batter Bucket",
+  "item.create_bakery.chocolate_icing_bucket": "Chocolate Icing Bucket",
+  "item.create_bakery.sweet_berry_jam_bucket": "Sweet Berry Jam Bucket",
+  "item.create_bakery.glow_berry_jam_bucket": "Glow Berry Jam Bucket",
+
+  "_": ">>>>>>>{CAKE BASES}<<<<<<<",
+  "item.create_bakery.plain_cake_base": "Plain Cake Base",
+  "item.create_bakery.double_plain_cake_base": "Double Plain Cake Base",
+  "item.create_bakery.plain_small_cake_base": "Small Plain Cake Base",
+  "item.create_bakery.plain_half_cake_base": "Half Plain Cake Base",
+  "item.create_bakery.blazing_half_cake_base": "Half Blazing Cake Base",
+
+  "_": ">>>>>>>{ASSEMBLY ITEMS}<<<<<<<",
+  "item.create_bakery.sweet_berry_jammed_half_plain_cake": "Sweet Berry Jammed Half Plain Cake",
+  "item.create_bakery.glow_berry_jammed_half_blaze_cake": "Glow Berry Jammed Half Blaze Cake",
+
+  "_": ">>>>>>>{STUFFED CAKES}<<<<<<<",
+  "item.create_bakery.sweet_berry_jam_stuffed_plain_cake": "Sweet Berry Jam Stuffed Plain Cake",
+  "item.create_bakery.glow_berry_jam_stuffed_blaze_cake": "Glow Berry Jam Stuffed Blaze Cake",
+
+  "_": ">>>>>>>{VANILLA ICED FOODS}<<<<<<<",
+  "item.create_bakery.iced_plain_cake_vanilla": "Vanilla Iced Cake",
+  "item.create_bakery.iced_double_plain_cake_vanilla": "Vanilla Iced Double Cake",
+  "item.create_bakery.iced_plain_small_cake_vanilla": "Vanilla Iced Small Cake",
+
+  "_": ">>>>>>>{BUTTERCREAM ICED FOODS}<<<<<<<",
+  "item.create_bakery.iced_plain_cake_buttercream": "ButterCream Iced Cake",
+  "item.create_bakery.iced_double_plain_cake_buttercream": "ButterCream Iced Double Cake",
+  "item.create_bakery.iced_plain_small_cake_buttercream": "ButterCream Iced Small Cake",
+
+  "_": ">>>>>>>{CHOCOLATE ICED FOODS}<<<<<<<",
+  "item.create_bakery.iced_plain_cake_chocolate": "Chocolate Iced Cake",
+  "item.create_bakery.iced_double_plain_cake_chocolate": "Chocolate Iced Double Cake",
+  "item.create_bakery.iced_plain_small_cake_chocolate": "Chocolate Iced Small Cake",
+
+  "_": ">>>>>>>{DOUBLE ICED FOODS}<<<<<<<",
+  "item.create_bakery.iced_double_plain_cake_chocolate_vanilla": "Chocolate-Vanilla Iced Double Cake",
+  "item.create_bakery.iced_double_plain_cake_chocolate_butter_cream":"Chocolate-ButterCream Iced Double Cake",
+  "item.create_bakery.iced_double_plain_cake_vanilla_chocolate": "Vanilla-Chocolate Iced Double Cake",
+  "item.create_bakery.iced_double_plain_cake_vanilla_butter_cream":"Vanilla-ButterCream Iced Double Cake",
+  "item.create_bakery.iced_double_plain_cake_buttercream_chocolate": "ButterCream-Chocolate Iced Double Cake",
+  "item.create_bakery.iced_double_plain_cake_buttercream_vanilla": "ButterCream-Vanilla Iced Double Cake",
+
+  "_": ">--------------------------------------[BLOCKS]--------------------------------------<",
+
+
+  "_": ">--------------------------------------[FLUIDS]--------------------------------------<",
+  "block.create_bakery.butter_cream": "ButterCream",
+  "fluid.create_bakery.vanilla_extract": "Vanilla Extract",
+  "block.create_bakery.icing": "Vanilla Icing",
+  "block.create_bakery.chocolate_icing": "Chocolate Icing",
+  "block.create_bakery.plain_cake_batter": "Plain Cake Batter",
+  "block.create_bakery.sweet_berry_jam": "Sweet Berry Jam",
+  "block.create_bakery.glow_berry_jam": "Glow Berry Jam",
+
+
+  "_": ">--------------------------------------[ITEM TOOLTIPS]--------------------------------------<",
+  "item.create_bakery.cake_tin.tooltip": "CAKE TIN",
+  "item.create_bakery.cake_tin.tooltip.summary": "The _Cake_ _Tin_ is used to produce _Cake_ _Bases_ for various _Cakes_. Pour the _Batter_ into the _Cake_ _Tin_ and cook to produce a _Cake_ _Base_ of that _Batter_ type.",
+  "item.create_bakery.small_cake_tin.tooltip": "SMALL CAKE TIN",
+  "item.create_bakery.small_cake_tin.tooltip.summary": "The _Small_ _Cake_ _Tin_ is used to produce _Small_ _Cake_ _Bases_ for various _Small_ _Cakes_ and _Double_ _Cakes_. Pour the _Batter_ into the _Small_ _Cake_ _Tin_ and cook to produce a _Small_ _Cake_ _Base_ of that _Batter_ type.",
+  "item.create_bakery.half_cake_tin.tooltip": "HALF CAKE TIN",
+  "item.create_bakery.half_cake_tin.tooltip.summary": "The _Half_ _Cake_ _Tin_ is used to produce _Half_ _Cake_ _Bases_ for various _Stuffed_ _Cakes_. Pour the _Batter_ into the _Half_ _Cake_ _Tin_ and cook to produce a _Half_ _Cake_ _Base_ of that _Batter_ type. The _Stuffed_ _Cake_ can then be assembled with a _Sequenced_ _Assembly_.",
+  "item.create_bakery.gilded_half_cake_tin.tooltip": "GILDED HALF CAKE TIN",
+  "item.create_bakery.gilded_half_cake_tin.tooltip.summary": "The _Gilded_ _Half_ _Cake_ _Tin_ is made to withstand the extreme heat of _Nether_ delicacies. Pour _Blazing_ _Batter_ into the _Gilded_ _Half_ _Cake_ _Tin_ and cook to produce an extremely hellish _Blazing_ _Half_ _Cake_ _Base_. The _Stuffed_ _Cake_ can then be assembled with a _Sequenced_ _Assembly_."
+
+}

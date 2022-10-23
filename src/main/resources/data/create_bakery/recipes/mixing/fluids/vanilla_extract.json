@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_bakery:vanilla"
+    },
+    {
+      "item": "create_bakery:vanilla"
+    },
+    {
+      "item": "create_bakery:vanilla"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_bakery:vanilla_extract",
+      "nbt": {},
+      "amount": 250
+    }
+  ]
+}

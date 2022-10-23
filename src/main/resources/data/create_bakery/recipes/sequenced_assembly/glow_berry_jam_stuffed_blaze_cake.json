@@ -1,0 +1,53 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_bakery:blazing_half_cake_base"
+  },
+  "transitionalItem": {
+    "item": "create_bakery:glow_berry_jammed_half_blaze_cake"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "create_bakery:glow_berry_jammed_half_blaze_cake"
+        },
+        {
+          "fluid": "create_bakery:glow_berry_jam",
+          "nbt": {},
+          "amount": 250
+        }
+      ],
+      "results": [
+        {
+          "item": "create_bakery:glow_berry_jammed_half_blaze_cake"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_bakery:glow_berry_jammed_half_blaze_cake"
+        },
+        [
+          {
+            "item": "create_bakery:blazing_half_cake_base"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_bakery:glow_berry_jammed_half_blaze_cake"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "create_bakery:glow_berry_jam_stuffed_blaze_cake"
+    }
+  ],
+  "loops": 1
+}

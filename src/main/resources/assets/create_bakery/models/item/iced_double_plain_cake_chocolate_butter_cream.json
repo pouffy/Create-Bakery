@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "create_bakery:item/iced_plain_double_cake_chocolate_butter_cream"
+  }
+}

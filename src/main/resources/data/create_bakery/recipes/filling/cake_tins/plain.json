@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "create_bakery:cake_tin"
+    },
+    {
+      "fluid": "create_bakery:plain_cake_batter",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "create_bakery:filled_cake_tin_plain"
+    }
+  ]
+}

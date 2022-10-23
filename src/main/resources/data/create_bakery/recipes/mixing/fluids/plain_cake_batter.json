@@ -1,0 +1,32 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:egg",
+      "count": 2
+    },
+    {
+      "item": "minecraft:sugar",
+      "count": 2
+    },
+    {
+      "item": "create:wheat_flour",
+      "count": 2
+    },
+    {
+      "item": "create_bakery:butter"
+    },
+    {
+      "fluid": "minecraft:milk",
+      "nbt": {},
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_bakery:plain_cake_batter",
+      "nbt": {},
+      "amount": 250
+    }
+  ]
+}

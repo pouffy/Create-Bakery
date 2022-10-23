@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_bakery:icing_sugar",
+      "count": 2
+    },
+    {
+      "item": "create_bakery:icing_sugar",
+      "chance": 0.1
+    }
+  ],
+  "processingTime": 150
+}

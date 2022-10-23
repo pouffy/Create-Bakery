@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "create_bakery:filled_small_cake_tin_plain"
+  },
+  "result": "create_bakery:filled_small_cake_tin_plain_cooked",
+  "experience": 0.0,
+  "cookingtime": 1200
+}

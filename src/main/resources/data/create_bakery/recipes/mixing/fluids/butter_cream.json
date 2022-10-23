@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create_bakery:icing_sugar"
+    },
+    {
+      "item": "create_bakery:icing_sugar"
+    },
+    {
+      "item": "create_bakery:butter"
+    },
+    {
+      "fluid": "minecraft:milk",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "fluid": "create_bakery:butter_cream",
+      "nbt": {},
+      "amount": 250
+    }
+  ]
+}
